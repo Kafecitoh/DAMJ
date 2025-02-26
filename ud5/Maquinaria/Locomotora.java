@@ -4,5 +4,4 @@ public class Locomotora {
     String matricula;
     int potencia;
     int anhoFabricaccion;
-    mecan mecanico;
 }
