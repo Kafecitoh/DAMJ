@@ -45,7 +45,7 @@ public class Caja {
         caja1.setEtiqueta("Destinatario: Juan Pérez, Dirección: Calle 123");
         System.out.println(caja1);
         Caja caja2 = new Caja(1, 2, 3, Unidad.M);
-        caja2.setEtiqueta("Paquete grande");.,mnbvcx
+        caja2.setEtiqueta("Paquete grande");
         System.out.println(caja2);
     }
 }
