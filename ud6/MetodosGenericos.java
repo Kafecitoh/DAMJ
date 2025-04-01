@@ -1,4 +1,4 @@
-package ud5;
+package ud6;
 
 public class MetodosGenericos {
     //Metodo generico para agregar un elemento al final de  unarray
@@ -8,7 +8,7 @@ public class MetodosGenericos {
         //se mete un nuevo elemento en la ultima posicion
         nuevoArray[t.length] = e;
         return nuevoArray; //devuelve el array con lo añadido
-    
+
     }
     public static <U> boolean buscar(U e, U[] t){
         //Recorre el array para verificar si el elemento está

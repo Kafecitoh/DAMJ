@@ -13,6 +13,7 @@ public class AgeClassifier {
             return "Adulto";
         }
         return "Infantil";
+
     }
 }
 

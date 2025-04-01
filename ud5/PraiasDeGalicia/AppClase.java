@@ -1,4 +1,4 @@
-package ud5.PraiasDeGalicia;
+/*package ud5.PraiasDeGalicia;
 
 import java.util.Arrays;
 
@@ -28,3 +28,4 @@ public class AppClase {
 
     }
 }
+*/

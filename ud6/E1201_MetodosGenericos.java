@@ -1,4 +1,6 @@
-package ud5;
+package ud6;
+
+import ud5.Persona;
 
 public class E1201_MetodosGenericos {
     static <U> int numeroDeNulos(U[] tabla) {
@@ -11,6 +13,6 @@ public class E1201_MetodosGenericos {
 
     public static void main(String[] args) {
         Integer[] numeros = {3, 5, 8, null, 2, null};
-        Persona[] persona = {new persona("Pepe")}
+        //Persona[] persona = {new persona("Pepe")}
     }
 }

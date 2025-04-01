@@ -1,4 +1,4 @@
-package ud5.PraiasDeGalicia;
+/*package ud5.PraiasDeGalicia;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -13,6 +13,7 @@ public class Util {
      * @param fichero Ruta del fichero JSON
      * @return Array de Praias
      */
+/*
     public static Praia[] importarPraias(String fichero) {
         Gson gson = new Gson();
 
@@ -20,12 +21,13 @@ public class Util {
         return gson.fromJson(json, Praia[].class);
     }
 
+
     /**
      * Lee y carga el contenido de un fichero de texto a un String (fuente OpenAI)
      * 
      * @param filePath Ruta del fichero
      * @return Contenido del fichero como un String
-     */
+     *
     public static String readFileToString(String filePath) {
         StringBuilder fileContent = new StringBuilder();
         try {
@@ -56,7 +58,7 @@ public class Util {
         return fileContent.toString();
     }
 
-    /**
+    /*
      * Calcula la distancia en metros entre dos puntos geográficos
      * 
      * @param lat1 Latitud del punto 1
@@ -64,7 +66,7 @@ public class Util {
      * @param lat2 Latitud del punto 2
      * @param lon2 Longitud del punto 2
      * @return distancia en metros
-     */
+     *
     public static double distancia(double lat1, double lon1, double lat2, double lon2) {
         final int R = 6371; // Radio de la Tierra
         double latDistance = Math.toRadians(lat2 - lat1);
@@ -79,3 +81,4 @@ public class Util {
     }
 
 }
+*/
