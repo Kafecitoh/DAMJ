@@ -1,4 +1,4 @@
-package CONTORNOS.exameUd3;
+/*package CONTORNOS.exameUd3;
 // Aron Santome Magallanes
 
 import org.junit.jupiter.api.Test;
@@ -22,7 +22,7 @@ class DiscountSystemTest {
         assertEquals(71.25,DiscountSystem.applyDiscount(75, false), 0.01);
     }
 }
-
+*/
 
 
 

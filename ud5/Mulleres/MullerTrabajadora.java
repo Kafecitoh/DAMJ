@@ -80,6 +80,7 @@ class Politica extends MullerTraballadora implements IActivista {
     public String getCausaDefendida() {
         return causa;
     }
+
 }
 
 

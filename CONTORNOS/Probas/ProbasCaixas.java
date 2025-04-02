@@ -1,4 +1,4 @@
-package CONTORNOS;
+package CONTORNOS.Probas;
 
 public class ProbasCaixas {
     public static int factorial(int n) {

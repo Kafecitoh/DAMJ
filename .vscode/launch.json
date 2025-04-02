@@ -1,0 +1,287 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Notificador",
+            "request": "launch",
+            "mainClass": "CONTORNOS.BadSmells.LongMethod.Notificador",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "Cliente",
+            "request": "launch",
+            "mainClass": "CONTORNOS.BadSmells.Cliente",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "CONTORNOS.Probas.test",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "Acierta",
+            "request": "launch",
+            "mainClass": "ud4.Acierta",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "ArraysInsercion",
+            "request": "launch",
+            "mainClass": "ud4.ArraysInsercion",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "Combinacion",
+            "request": "launch",
+            "mainClass": "ud4.Combinacion",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "ConceptosDeProgramacion",
+            "request": "launch",
+            "mainClass": "ud4.ConceptosDeProgramacion",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "Digitos",
+            "request": "launch",
+            "mainClass": "ud4.Digitos",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "EPO606",
+            "request": "launch",
+            "mainClass": "ud4.EPO606",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "EPO607",
+            "request": "launch",
+            "mainClass": "ud4.EPO607",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "EPO614",
+            "request": "launch",
+            "mainClass": "ud4.EPO614",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "Introducir2frases",
+            "request": "launch",
+            "mainClass": "ud4.Introducir2frases",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "ud4.Main",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "MontanaRusa",
+            "request": "launch",
+            "mainClass": "ud4.MontanaRusa",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "Otro",
+            "request": "launch",
+            "mainClass": "ud4.Otro",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "OtroEjercicoi",
+            "request": "launch",
+            "mainClass": "ud4.OtroEjercicoi",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "PO",
+            "request": "launch",
+            "mainClass": "ud4.PO",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "PO634",
+            "request": "launch",
+            "mainClass": "ud4.PO634",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "Purebadeexamen",
+            "request": "launch",
+            "mainClass": "ud4.Purebadeexamen",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "Wordle",
+            "request": "launch",
+            "mainClass": "ud4.Wordle",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "another",
+            "request": "launch",
+            "mainClass": "ud4.another",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "class606",
+            "request": "launch",
+            "mainClass": "ud4.class606",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "Bingo",
+            "request": "launch",
+            "mainClass": "ud5.Bingo",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "Caja",
+            "request": "launch",
+            "mainClass": "ud5.Cajitas.Caja",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "CajaCarton",
+            "request": "launch",
+            "mainClass": "ud5.Cajitas.CajaCarton",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "Clase",
+            "request": "launch",
+            "mainClass": "ud5.Clase",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "GestionBiblioteca",
+            "request": "launch",
+            "mainClass": "ud5.Estudiantes.GestionBiblioteca",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "Inmobiliaria",
+            "request": "launch",
+            "mainClass": "ud5.Inmobiliarias.Inmobiliaria",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "JefeEstacion",
+            "request": "launch",
+            "mainClass": "ud5.Personal.JefeEstacion",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "Cliente",
+            "request": "launch",
+            "mainClass": "ud5.asmexamen.Cliente",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "Host",
+            "request": "launch",
+            "mainClass": "ud5.asmexamen.Host",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "Servidor",
+            "request": "launch",
+            "mainClass": "ud5.asmexamen.Servidor",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "ContenedorO",
+            "request": "launch",
+            "mainClass": "ud5.contenedor.ContenedorO",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "Inmobiliaria(1)",
+            "request": "launch",
+            "mainClass": "ud5.random.Inmobiliaria",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "ud5.random.Main",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "OrdenNumeros",
+            "request": "launch",
+            "mainClass": "ud5.random.OrdenNumeros",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "E1201_MetodosGenericos",
+            "request": "launch",
+            "mainClass": "ud6.E1201_MetodosGenericos",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "EP120",
+            "request": "launch",
+            "mainClass": "ud6.EP120",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "EPO1204",
+            "request": "launch",
+            "mainClass": "ud6.EPO1204",
+            "projectName": "DAMJ_ae18d98a"
+        }
+    ]
+}

@@ -1,4 +1,4 @@
-package CONTORNOS;
+package CONTORNOS.Probas;
 
 public class test {
     public static void main(String[] args) {

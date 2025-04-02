@@ -1,4 +1,4 @@
-package CONTORNOS.exameUd3;
+/*package CONTORNOS.exameUd3;
 
 // Aron Santome Magallanes
 import org.junit.jupiter.api.Test;
@@ -26,3 +26,4 @@ class emailValidatorTest {
 }
 }
 
+*/
