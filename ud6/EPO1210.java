@@ -5,6 +5,7 @@ se introduzca uno negativo. A continuación recorrer la lista y mostrar por pant
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
+import java.util.Set;
 
 public class EPO1210 {
     public static void main(String[] args) {
@@ -16,5 +17,7 @@ public class EPO1210 {
             lista.add(random.nextInt(10)+ 1);
             
         }
+        //conjuntos para los elemntos without repetirse y repetiros
+        
     }
 }

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EPO1212",
+            "request": "launch",
+            "mainClass": "ud6.EPO1212",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
             "name": "Notificador",
             "request": "launch",
             "mainClass": "CONTORNOS.BadSmells.LongMethod.Notificador",

@@ -2,7 +2,6 @@ package ud6;
 
 import java.util.List;
 import java.util.ArrayList;
-import java.util.Collection;
 
 public class EPO1209 {
     // Declara la lista 
