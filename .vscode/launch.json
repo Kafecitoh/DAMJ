@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EjemploFicherosTexto",
+            "request": "launch",
+            "mainClass": "ud7.EjemploFicherosTexto",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "ud6.xxxexamen.genericos.Main",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
             "name": "EPO1212",
             "request": "launch",
             "mainClass": "ud6.EPO1212",

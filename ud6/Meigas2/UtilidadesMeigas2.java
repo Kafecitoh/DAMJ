@@ -1,7 +1,7 @@
 package ud6.Meigas2;
 
 
-
+/*
 import java.util.*;
 
 public class UtilidadesMeigas2 {
@@ -64,3 +64,5 @@ System.out.println("- " + ing);
 }
 }
 }
+
+ */

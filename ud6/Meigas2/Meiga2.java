@@ -1,6 +1,6 @@
 package ud6.Meigas2;
 
-
+/*
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
@@ -59,3 +59,5 @@ public String toString() {
 return nome + " ('" + alcumeMaxico + "') Feitizos favoritos: " + feitizosFavoritos + ", Inventario: " + inventarioIngredientes;
 }
 }
+
+ */
