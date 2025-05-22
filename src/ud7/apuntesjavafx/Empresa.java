@@ -1,4 +1,4 @@
-package ud7;
+package ud7.apuntesjavafx;
 
 public class Empresa {
     private String nombre;

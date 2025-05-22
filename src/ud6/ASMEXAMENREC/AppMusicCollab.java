@@ -1,18 +1,30 @@
-package musicollab;
-//APP
-import java.util.*;
+//ARON SANTOME MAGALLANES
+
+package ud6.ASMEXAMENREC;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+
+
 import java.util.stream.Collectors;
 
 public class AppMusicCollab {
-
+//ejercicio streams igual al camisetas de futbol ,chapado solo manioular los nombres y lo que pide
     public static List<Musico> musicosParaCancion(Cancion c, List<Musico> musicos) {
         return musicos.stream()
             .filter(m -> m.getInstrumentos().stream().anyMatch(i -> c.getInstrumentosRequeridos().contains(i))
                       && m.getRepertorio().contains(c))
-            .sorted()
-            .collect(Collectors.toList());
+               .sorted()
+             .collect(Collectors.toList());
     }
-
+ // todo lo posible de canciones posibles
+ // CHECKEAR LLAVES QUE FALTAN !!!!!!!!!!
+ //REFACTORIZAR BIEN
     public static List<Cancion> cancionesPosibles(List<Musico> grupo, List<Cancion> canciones) {
         List<Cancion> posibles = new ArrayList<>();
         for (Cancion cancion : canciones) {
@@ -33,6 +45,7 @@ public class AppMusicCollab {
                 posibles.add(cancion);
             }
         }
+        //retunea lo q pide
         Collections.sort(posibles);
         return posibles;
     }
@@ -50,19 +63,19 @@ public class AppMusicCollab {
             new Cancion("Bohemian Rhapsody", "Queen", "Rock", List.of("voz", "piano", "guitarra", "batería"))
         );
 
-        // Mostrar ordenadas por nombre
+        // Mostrar ordenadas por nombre con stream
         System.out.println("Canciones ordenadas por nombre:");
         System.out.println("================================");
         canciones.stream().sorted().forEach(System.out::println);
 
-        // Mostrar ordenadas por estilo, autor, nombre
+        // Mostrar ordenadas por estilo, autor, nombre todo con stream
         System.out.println("\nCanciones ordenadas por estilo musical, luego por autor y luego por nombre:");
         System.out.println("===============================================================================");
         canciones.stream()
-                .sorted(Comparator.comparing(Cancion::getEstiloMusical)
+                          .sorted(Comparator.comparing(Cancion::getEstiloMusical)
                                   .thenComparing(Cancion::getAutor)
                                   .thenComparing(Cancion::getNombre))
-                .forEach(System.out::println);
+                          .forEach(System.out::println);
 
         // Instrumentos distintos
         System.out.println("\nLista de instrumentos distintos:");

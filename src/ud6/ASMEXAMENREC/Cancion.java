@@ -1,7 +1,16 @@
-package musicollab;
-//CANCIÓN.JAVA
-import java.util.*;
+//ARON SANTOME MAGALLANES
 
+package ud6.ASMEXAMENREC;
+
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.List;
+import java.util.Set;
+import java.util.TreeSet;
+
+
+
+//clase cancion
 public class Cancion implements Comparable<Cancion> {
     private String nombre;
     private String autor;
@@ -13,6 +22,8 @@ public class Cancion implements Comparable<Cancion> {
         this.autor = autor;
         this.estiloMusical = estiloMusical;
         this.instrumentosRequeridos = new ArrayList<>(new TreeSet<>(instrumentosRequeridos));
+        
+    //getters
     }
 
     public String getNombre() {

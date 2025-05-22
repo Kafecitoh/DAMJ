@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AppMusicCollab",
+            "request": "launch",
+            "mainClass": "src.BBDD.AppMusicCollab",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "Mapa",
+            "request": "launch",
+            "mainClass": "src.ud7.apuntesjavafx.Mapa",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "Mapa",
+            "request": "launch",
+            "mainClass": "ud7.apuntesjavafx.Mapa",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "SopaDeLetras",
+            "request": "launch",
+            "mainClass": "ud7.SopaDeLetras",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "AppMusicCollab",
+            "request": "launch",
+            "mainClass": "ASMEXAMENREC.AppMusicCollab",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "AppMusicCollab",
+            "request": "launch",
+            "mainClass": "BBDD.AppMusicCollab",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
+            "name": "Cancion",
+            "request": "launch",
+            "mainClass": "ud6.ASMEXAMENREC.Cancion",
+            "projectName": "DAMJ_ae18d98a"
+        },
+        {
+            "type": "java",
             "name": "EjemploFicherosTexto",
             "request": "launch",
             "mainClass": "ud7.EjemploFicherosTexto",
