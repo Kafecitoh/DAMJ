@@ -14,7 +14,7 @@ public class EPO1210 {
 
         // genero listas con 20 numeros aleatorios entre 1 y 20
         for(int i = 0; i < 20; i++){
-            lista.add(random.nextInt(10)+ 1);
+            lista.add(random.nextInt(10)+ 1);sdad
             
         }
         //conjuntos para los elemntos without repetirse y repetiros
